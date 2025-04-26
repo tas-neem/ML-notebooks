@@ -15,5 +15,5 @@ This repository contains Jupyter notebooks covering a range of **Machine Learnin
 - **Neural Networks**:
   - McCulloch-Pitts Model
   - Hebb Net
-- **Genetic Algorithm**:
+- **Genetic Algorithm**
 
