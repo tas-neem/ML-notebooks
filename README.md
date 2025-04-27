@@ -8,14 +8,16 @@ This repository contains Jupyter notebooks covering a range of **Machine Learnin
   - Linear Regression (Simple & Multiple)
   - Naïve Bayes Classifier
   - Decision Tree (ID3)
-  - Single-Layer Perceptron
-  - Multi-Layer Perceptron (MLP)
 - **Unsupervised Learning**:
   - K-Means Clustering
   - K Nearest Neighbors (KNN)
 - **Neural Networks**:
   - McCulloch-Pitts Model
   - Hebb Net
+  - Single-Layer Perceptron
+  - Multi-Layer Perceptron (MLP)
+  - Radial Basis Function (RBF) Network
 - **Genetic Algorithm**
 - **Principal Component Analysis (PCA)**
+- **Self Organizing Map (SOM)**
 
