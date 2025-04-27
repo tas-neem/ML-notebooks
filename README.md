@@ -17,5 +17,5 @@ This repository contains Jupyter notebooks covering a range of **Machine Learnin
   - McCulloch-Pitts Model
   - Hebb Net
 - **Genetic Algorithm**
-- **Principal Component Analysis**
+- **Principal Component Analysis (PCA)**
 
