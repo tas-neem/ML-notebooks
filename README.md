@@ -10,11 +10,12 @@ This repository contains Jupyter notebooks covering a range of **Machine Learnin
   - Decision Tree (ID3)
   - Single-Layer Perceptron
   - Multi-Layer Perceptron (MLP)
-  - K Nearest Neighbors (KNN)
 - **Unsupervised Learning**:
   - K-Means Clustering
+  - K Nearest Neighbors (KNN)
 - **Neural Networks**:
   - McCulloch-Pitts Model
   - Hebb Net
 - **Genetic Algorithm**
+- **Principal Component Analysis**
 
